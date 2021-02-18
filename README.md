@@ -1,5 +1,7 @@
 # amplify-test-app
 
+https://aws.amazon.com/jp/builders-flash/202008/amplify-crud-app/#
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
